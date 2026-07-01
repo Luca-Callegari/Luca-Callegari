@@ -11,11 +11,11 @@ Studente di Ingegneria Informatica con specializzazione in Automazione. Ex parte
 ### Competenze Tecniche
 
 **Linguaggi di Programmazione e Basso Livello**
-* **Linguaggi:** C, C++, Assembly (x86/ARM)
+* **Linguaggi:** C, C++, Assembly (x86/ARM), Matlab
 * **Documentazione Tecnica:** LaTeX
 
 **Calcolo Scientifico e Modellazione**
-* **Strumenti:** MATLAB, Wolfram Mathematica
+* **Strumenti:** MATLAB, Wolfram Mathematica, ROS2
 
 **Ambiti di Interesse**
 * Sistemi di Controllo e Feedback
